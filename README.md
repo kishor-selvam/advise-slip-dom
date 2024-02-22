@@ -8,9 +8,8 @@ Write app description in detail!
 
 ## 🎉 Check it yourself!
 
-| 🚧 Build Status  | [![Netlify Status](https://img.shields.io/github/actions/workflow/status/anburocky3/festival-greeting-app/deploy.yml?logo=github&label=Live)](https://app.netlify.com/sites/cyberdude-internship/deploys) |
-| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | https://anburocky3.github.io/vite-html-tailwind                                                                                                                                                           |
+
+| ✅ Live Website: | https://kishor-selvam.github.io/advice-slip-dom                                                                                                                                                          |
 
 ---
 
@@ -85,6 +84,5 @@ npm run preview
 
 #### Authors:
 
-- [Anbuselvan Rocky](https://fb.me/anburocky3)
+- [Kishor](https://www.github.com/kishor-selvam)
 
-[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
