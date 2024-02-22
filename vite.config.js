@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import { resolve } from "path";
 
 export default defineConfig({
-  // base: '/YOUR_BASE/'
+  base: "/advise-slip-dom/",
   //   build: {
   //     rollupOptions: {
   //       input: {
